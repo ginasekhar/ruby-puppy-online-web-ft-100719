@@ -24,7 +24,7 @@ class Dog
   end
   
   
-  private 
+  #private 
   
  
   
